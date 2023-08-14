@@ -1,0 +1,17 @@
+{
+    "name": "giovanni/course",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Giovanni\\Course\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giovanni Rodriguez",
+            "email": "hector.ramos@dposrtenis.com.mx"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
